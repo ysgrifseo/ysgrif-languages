@@ -1,42 +1,42 @@
 {
   "schema": 1,
-  "plugin_version": "1.0.2",
+  "plugin_version": "1.0.0",
   "updated": "2026-11-19",
   "languages": {
     "es_ES": {
       "name": "Español",
       "file": "mo/ysgrif-es_ES.mo",
-      "sha256": "a2af553689683aabf0494f15ac6521d30911feb234f42fbc37ee9f637aff6a05",
-      "bytes": 248610,
-      "translated": 2148,
-      "total": 5054,
+      "sha256": "8c97f37b01945391971bcab4dcaa2e75c36d1a7beaeb0218749032ba93ee78d3",
+      "bytes": 250836,
+      "translated": 2162,
+      "total": 5068,
       "machine_translated": true
     },
     "ja": {
       "name": "日本語",
       "file": "mo/ysgrif-ja.mo",
-      "sha256": "d666a4ca30c99c77a8114f464900467f9e8b944cd10b0dad978168f436887be6",
-      "bytes": 276041,
-      "translated": 2148,
-      "total": 5054,
+      "sha256": "46c6f30727c3d3dc952f90fe047d6e24427d2cf7f97a5025bf354935ecadcae3",
+      "bytes": 278564,
+      "translated": 2162,
+      "total": 5068,
       "machine_translated": true
     },
     "pt_BR": {
       "name": "Português (Brasil)",
       "file": "mo/ysgrif-pt_BR.mo",
-      "sha256": "cad9a239bb5f1773bb27006f8eb63a03d014ad5422cbfd8cda00be4b72929c56",
-      "bytes": 246011,
-      "translated": 2148,
-      "total": 5054,
+      "sha256": "c661bf8c6fdc7d0b287c46fd1ce02241f6b000acaeb76b671c993eae02366e2d",
+      "bytes": 248229,
+      "translated": 2162,
+      "total": 5068,
       "machine_translated": true
     },
     "fr_FR": {
       "name": "Français",
       "file": "mo/ysgrif-fr_FR.mo",
-      "sha256": "00b6d1132dddd0f438a885f68bb5d8839462f257cd2daf5a4087753492025268",
-      "bytes": 605784,
-      "translated": 4762,
-      "total": 5054,
+      "sha256": "1af6ec1d5703997136a52a0f53f7d6508c07c55c0755a21fd32e1aa1ba3844b6",
+      "bytes": 608135,
+      "translated": 4776,
+      "total": 5068,
       "machine_translated": true
     }
   }

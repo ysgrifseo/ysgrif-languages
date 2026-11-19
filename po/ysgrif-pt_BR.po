@@ -24559,3 +24559,66 @@ msgid ""
 "The stripe at the side of the boxes. The text size set for the Takeaways "
 "applies to every box."
 msgstr ""
+
+msgid "%1$d of %2$d texts"
+msgstr "%1$d de %2$d textos"
+
+msgid ""
+"AI suggestions use the AI provider you connect in WordPress, under %s "
+"(WordPress 7.0 or later)."
+msgstr ""
+"As sugestões de IA usam o provedor de IA que você conectar no WordPress, em "
+"%s (WordPress 7.0 ou posterior)."
+
+msgid "Get a ready-made translation"
+msgstr "Obter uma tradução pronta"
+
+msgid "Install"
+msgstr "Instalar"
+
+msgid "Installed. Reloading…"
+msgstr "Instalado. Recarregando…"
+
+msgid "Settings → Connectors"
+msgstr "Configurações → Conectores"
+
+msgid "Show available languages"
+msgstr "Mostrar idiomas disponíveis"
+
+msgid "The downloaded file did not match the list, so it was not installed."
+msgstr ""
+"O arquivo baixado não correspondia à lista, por isso não foi instalado."
+
+msgid "The list of translations could not be reached. Try again later."
+msgstr ""
+"Não foi possível acessar a lista de traduções. Tente novamente mais tarde."
+
+msgid "The list of translations could not be read."
+msgstr "Não foi possível ler a lista de traduções."
+
+msgid "The list of translations is empty."
+msgstr "A lista de traduções está vazia."
+
+msgid "The translation could not be downloaded. Try again later."
+msgstr "Não foi possível baixar a tradução. Tente novamente mais tarde."
+
+msgid ""
+"Translations made by Ysgrif, kept at github.com/ysgrifseo/ysgrif-languages. "
+"They are machine translations and still need a human review. Clicking the "
+"button below connects to GitHub to read the list; nothing about your site is"
+" sent."
+msgstr ""
+"Traduções feitas pelo Ysgrif, mantidas em github.com/ysgrifseo/ysgrif-"
+"languages. São traduções automáticas e ainda precisam de revisão humana. Ao "
+"clicar no botão abaixo, o plugin se conecta ao GitHub para ler a lista; nada"
+" sobre o seu site é enviado."
+
+msgid ""
+"Ysgrif can ask an AI service to check spelling, grammar, headline, summary "
+"and tags before you publish. You choose which suggestions to keep. Connect "
+"the AI provider you use under %s (WordPress 7.0 or later)."
+msgstr ""
+"O Ysgrif pode pedir a um serviço de IA que revise ortografia, gramática, "
+"título, resumo e tags antes de você publicar. Você escolhe quais sugestões "
+"manter. Conecte o provedor de IA que você usa em %s (WordPress 7.0 ou "
+"posterior)."

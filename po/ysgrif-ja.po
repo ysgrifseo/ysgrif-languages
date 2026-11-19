@@ -23537,3 +23537,60 @@ msgid ""
 "The stripe at the side of the boxes. The text size set for the Takeaways "
 "applies to every box."
 msgstr ""
+
+msgid "%1$d of %2$d texts"
+msgstr "%1$d / %2$d 件のテキスト"
+
+msgid ""
+"AI suggestions use the AI provider you connect in WordPress, under %s "
+"(WordPress 7.0 or later)."
+msgstr ""
+"AI の提案は、WordPress で接続した AI プロバイダーを使用します。接続は %s で行います(WordPress 7.0 以降)。"
+
+msgid "Get a ready-made translation"
+msgstr "すぐに使える翻訳を入手"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Installed. Reloading…"
+msgstr "インストールしました。再読み込みしています…"
+
+msgid "Settings → Connectors"
+msgstr "設定 → コネクター"
+
+msgid "Show available languages"
+msgstr "利用可能な言語を表示"
+
+msgid "The downloaded file did not match the list, so it was not installed."
+msgstr "ダウンロードしたファイルが一覧と一致しなかったため、インストールしませんでした。"
+
+msgid "The list of translations could not be reached. Try again later."
+msgstr "翻訳の一覧に接続できませんでした。しばらくしてからもう一度お試しください。"
+
+msgid "The list of translations could not be read."
+msgstr "翻訳の一覧を読み取れませんでした。"
+
+msgid "The list of translations is empty."
+msgstr "翻訳の一覧は空です。"
+
+msgid "The translation could not be downloaded. Try again later."
+msgstr "翻訳をダウンロードできませんでした。しばらくしてからもう一度お試しください。"
+
+msgid ""
+"Translations made by Ysgrif, kept at github.com/ysgrifseo/ysgrif-languages. "
+"They are machine translations and still need a human review. Clicking the "
+"button below connects to GitHub to read the list; nothing about your site is"
+" sent."
+msgstr ""
+"Ysgrif が作成した翻訳で、github.com/ysgrifseo/ysgrif-languages "
+"で公開されています。機械翻訳のため、人による確認が必要です。下のボタンを押すと GitHub "
+"に接続して一覧を読み込みます。サイトに関する情報は送信されません。"
+
+msgid ""
+"Ysgrif can ask an AI service to check spelling, grammar, headline, summary "
+"and tags before you publish. You choose which suggestions to keep. Connect "
+"the AI provider you use under %s (WordPress 7.0 or later)."
+msgstr ""
+"Ysgrif は、公開前に AI サービスへスペル、文法、見出し、要約、タグのチェックを依頼できます。どの提案を採用するかはあなたが選べます。使用する "
+"AI プロバイダーは %s で接続してください(WordPress 7.0 以降)。"

@@ -23460,3 +23460,54 @@ msgid ""
 "The stripe at the side of the boxes. The text size set for the Takeaways "
 "applies to every box."
 msgstr ""
+
+msgid "%1$d of %2$d texts"
+msgstr ""
+
+msgid ""
+"AI suggestions use the AI provider you connect in WordPress, under %s "
+"(WordPress 7.0 or later)."
+msgstr ""
+
+msgid "Get a ready-made translation"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installed. Reloading…"
+msgstr ""
+
+msgid "Settings → Connectors"
+msgstr ""
+
+msgid "Show available languages"
+msgstr ""
+
+msgid "The downloaded file did not match the list, so it was not installed."
+msgstr ""
+
+msgid "The list of translations could not be reached. Try again later."
+msgstr ""
+
+msgid "The list of translations could not be read."
+msgstr ""
+
+msgid "The list of translations is empty."
+msgstr ""
+
+msgid "The translation could not be downloaded. Try again later."
+msgstr ""
+
+msgid ""
+"Translations made by Ysgrif, kept at github.com/ysgrifseo/ysgrif-languages. "
+"They are machine translations and still need a human review. Clicking the "
+"button below connects to GitHub to read the list; nothing about your site is"
+" sent."
+msgstr ""
+
+msgid ""
+"Ysgrif can ask an AI service to check spelling, grammar, headline, summary "
+"and tags before you publish. You choose which suggestions to keep. Connect "
+"the AI provider you use under %s (WordPress 7.0 or later)."
+msgstr ""
